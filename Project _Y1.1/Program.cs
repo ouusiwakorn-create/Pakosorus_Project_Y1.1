@@ -10,6 +10,7 @@ namespace Project__Y1._1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sdfsdofko");
         }
     }
 }
